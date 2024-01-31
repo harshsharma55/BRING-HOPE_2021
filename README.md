@@ -47,50 +47,59 @@ If you have any feedback, please reach out to us at 1avdheshkumarsharma@gmail.co
 
 ## Run Locally
 
-Clone the project
+[Clone the project]:-
 
-bash
-  git clone https://github.com/harshsharma55/BRING-HOPE_2021.git
-
-
-Go to the Bring-HOPE_2021
-
-bash
-  cd Bring-HOPE_2021
+git clone https://github.com/harshsharma55/BRING-HOPE_2021.git
 
 
-Install dependencies
+### [Go to the Bring-HOPE_2021]:-
 
-bash
+cd Bring-HOPE_2021
+
+
+### [Install dependencies]:-
+
   pip install Gpio
+  
   pip install opencv-python
+  
   pip install ultralytics
+  
   pip install pandas
+  
   pip install numpy
+  
   pip install sklearn
+  
   pip install pytorch
+  
   pip install BeautifulSoup
+  
   pip install os
+  
   pip install warnings
+  
   pip install tensorflow
+  
   pip install picamera
+  
   pip install tkinter
+  
   pip install tflite
 
 
-Start the server
+### [Run the Code]:-
 
-bash
   python3 detection.py
 
 
 
-## Demo
+### Demo
 
 Insert gif or link to demo
 
 
 
-## Screenshots
+### Screenshots
 
 ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
